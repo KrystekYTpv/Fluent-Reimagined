@@ -1,4 +1,4 @@
-# Fluent RReimagined
+# Fluent Reimagined
 
 ![Fluent Reimagined Title](Assets/darkmode.png#gh-dark-mode-only)
 ![Fluent Reimagined Title](Assets/darkmode.png#gh-light-mode-only)
