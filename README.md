@@ -1,7 +1,7 @@
-# Fluent Renewed
+# Fluent RReimagined
 
-![Fluent Renewed Title](Assets/darkmode.png#gh-dark-mode-only)
-![Fluent Renewed Title](Assets/darkmode.png#gh-light-mode-only)
+![Fluent Reimagined Title](Assets/darkmode.png#gh-dark-mode-only)
+![Fluent Reimagined Title](Assets/darkmode.png#gh-light-mode-only)
 
 ## ⚡ Features
 
@@ -11,14 +11,14 @@
 
 ## 🔌 Installation
 
-You can load Fluent through a GitHub Release:
+You can load Fluent Reimagined through a GitHub Release:
 
 ```lua
-local Library = loadstring(game:GetService("HttpService"):GetAsync("https://github.com/ActualMasterOogway/Fluent-Renewed/releases/latest/download/Fluent.luau", true))()
+local Library = loadstring(game:GetService("HttpService"):GetAsync("https://github.com/KrystekYTpv/Fluent-Reimagined/releases/download/Release/Fluent.luau", true))()
 ```
 
 ```lua
-local Library = loadstring(game:HttpGetAsync("https://github.com/ActualMasterOogway/Fluent-Renewed/releases/latest/download/Fluent.luau", true))()
+local Library = loadstring(game:HttpGetAsync("https://github.com/KrystekYTpv/Fluent-Reimagined/releases/download/Release/Fluent.luau", true))()
 ```
 
 ## 📜 Usage
