@@ -23,8 +23,6 @@ local Library = loadstring(game:HttpGetAsync("https://github.com/ActualMasterOog
 
 ## 📜 Usage
 
-[Example Script the studio environment](https://github.com/KrystekYTpv/Fluent-Reimagined/releases/download/Release/Fluent.luau)
-
 [Example Script for an exploit environment](https://raw.githubusercontent.com/KrystekYTpv/Fluent-Reimagined/refs/heads/main/Example.lua)
 
 ## Credits
